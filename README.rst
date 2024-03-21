@@ -1,6 +1,6 @@
 .. vim: tw=80 lbr
 
-django-otp
+django-2fa
 ==========
 
 .. image:: https://img.shields.io/pypi/v/django-otp?color=blue
